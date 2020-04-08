@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BelajarLayout</string>
+    <string name="judul">Masakan Padang</string>
+    <string name="ayambakar">Ayam Bakar</string>
+    <string name="ikan">Ikan Bakar</string>
+    <string name="rendang">Rendang</string>
+    <string name="nama">Nama</string>
+    <string name="hint_nama">masukan nama</string>
+    <string name="titik2">:</string>
+    <string name="choose">Choose method for delivery</string>
+    <string name="submit">Submit</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="note">Note</string>
+    <string name="hint_addree">masukan address</string>
+    <string name="hint_phone">masukan phone</string>
+    <string name="hint_note">masukan note</string>
+
+</resources>
